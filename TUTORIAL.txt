@@ -1,0 +1,5 @@
+javac Main.java -d ..\bin
+javac com\tutorial\Main.java -d ..\bin
+
+java Main
+java com.tutorial.Main
