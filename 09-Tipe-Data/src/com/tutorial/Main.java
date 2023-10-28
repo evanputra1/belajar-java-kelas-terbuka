@@ -43,8 +43,8 @@ public class Main {
 
         //long (satuan)
         long l = 10;
-        System.out.println("nilai long i = " + b);
-        System.out.println("nilai long i = " + (b + 1));
+        System.out.println("nilai long l = " + l);
+        System.out.println("nilai long l = " + (l + 1));
         System.out.println("nilai max = " + Long.MAX_VALUE);
         System.out.println("nilai min = " + Long.MIN_VALUE);
         System.out.println("besar long = " + Long.BYTES + " bytes");
